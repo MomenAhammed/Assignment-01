@@ -97,3 +97,44 @@ hr {
 #side-2 {
     background-color: bisque;
 }
+
+.form-style {
+    background-color: cornsilk;
+    width: 50%;
+    margin-left: 400px;
+}
+
+.form-edit {
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+#submit-style {
+    background-color: brown;
+    padding: 15px 30px;
+    border-left: 10px solid brown;
+    border-radius: 5px;
+}
+
+#email {
+    padding: 15px 40px;
+    background-color: gold;
+    border: 3px solid gold;
+    margin-left: 5px;
+    border-right: 5px solid brown;
+    border-radius: 5px;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 25px;
+}
+
+h5 {
+    font-size: 25px;
+
+}
