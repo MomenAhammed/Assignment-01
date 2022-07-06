@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 header {
@@ -13,7 +14,6 @@ header {
 h1 {
     font-size: 80px;
     color: white;
-
 }
 
 .edit-header {
@@ -29,8 +29,6 @@ h1 {
     background-image: linear-gradient(red, brown);
     padding: 20px 40px;
     border-radius: 10px;
-
-
 }
 
 .section-start {
@@ -40,7 +38,7 @@ h1 {
 }
 
 #big-size {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .provide-money {
@@ -112,22 +110,20 @@ hr {
 
 #submit-style {
     background-color: brown;
-    padding: 15px 30px;
-    border-left: 10px solid brown;
-    border-radius: 5px;
+    padding: 17px 30px;
+    border-radius: 3px;
 }
 
 #email {
     padding: 15px 40px;
     background-color: gold;
     border: 3px solid gold;
-    margin-left: 5px;
-    border-right: 5px solid brown;
-    border-radius: 5px;
+    margin-right: -5px;
+    border-radius: 3sspx;
 }
 
 footer {
-    color: white;
+    color: gray;
     background-color: black;
     text-align: center;
     padding: 20px 0px;
@@ -136,5 +132,31 @@ footer {
 
 h5 {
     font-size: 25px;
+    color: brown;
+}
 
+#extra-1 {
+    color: red;
+    text-shadow: 5px 5px burlywood;
+}
+
+.extra-2 {
+    width: 250px;
+    margin-left: 75px;
+    border: 20px solid whitesmoke;
+}
+
+.extra-activities {
+    display: flex;
+    justify-content: center;
+}
+
+.images-edit {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+#extra-3 {
+    color: brown;
 }
