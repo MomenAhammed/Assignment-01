@@ -74,3 +74,26 @@ hr {
 #add-styles {
     text-align: center;
 }
+
+.donate-plan {
+    display: flex;
+    justify-content: center;
+}
+
+.side {
+    width: 350px;
+    height: 300px;
+    padding: 60px 20px;
+    background-color: fuchsia;
+    margin-left: 40px;
+    font-size: 20px;
+
+}
+
+#side-1 {
+    background-color: aqua;
+}
+
+#side-2 {
+    background-color: bisque;
+}
